@@ -20,7 +20,7 @@ h6 {
     font-family: 'Lato', sans-serif;
     text-transform: uppercase;
     font-weight: 900;
-    color: #0000ff;
+    color: #00aeef;
 }
 
 img {
@@ -181,7 +181,7 @@ section h2.section-heading:after {
     bottom: -10px;
     height: 5px;
     width: 120px;
-    border-bottom: 5px solid #0000ff;
+    border-bottom: 5px solid #00aeef;
     margin: 0 auto;
 }
 
@@ -597,13 +597,13 @@ section.features {
  * Testimonials
  */
 #testimonials {
-    background: -moz-radial-gradient(center, ellipse cover, #00d2ff 0%, #0000ff 100%); /* ff3.6+ */
-    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #00d2ff), color-stop(100%, #0000ff)); /* safari4+,chrome */
-    background: -webkit-radial-gradient(center, ellipse cover, #00d2ff 0%, #0000ff 100%); /* safari5.1+,chrome10+ */
-    background: -o-radial-gradient(center, ellipse cover, #00d2ff 0%, #0000ff 100%); /* opera 11.10+ */
-    background: -ms-radial-gradient(center, ellipse cover, #00d2ff 0%, #0000ff 100%); /* ie10+ */
-    background: radial-gradient(ellipse at center, #00d2ff 0%, #0000ff 100%); /* w3c */
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00d2ff', endColorstr='#0000ff', GradientType=1); /* ie6-9 */
+    background: -moz-radial-gradient(center, ellipse cover, #00d2ff 0%, #00aeef 100%); /* ff3.6+ */
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%, #00d2ff), color-stop(100%, #00aeef)); /* safari4+,chrome */
+    background: -webkit-radial-gradient(center, ellipse cover, #00d2ff 0%, #00aeef 100%); /* safari5.1+,chrome10+ */
+    background: -o-radial-gradient(center, ellipse cover, #00d2ff 0%, #00aeef 100%); /* opera 11.10+ */
+    background: -ms-radial-gradient(center, ellipse cover, #00d2ff 0%, #00aeef 100%); /* ie10+ */
+    background: radial-gradient(ellipse at center, #00d2ff 0%, #00aeef 100%); /* w3c */
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00d2ff', endColorstr='#00aeef', GradientType=1); /* ie6-9 */
 }
 
 section#testimonials h3.section-subheading,
@@ -685,7 +685,7 @@ section#testimonials h2.section-heading:after {
  */
 .stat {
     font-family: 'Lato', sans-serif;
-    color: #0000ff;
+    color: #00aeef;
     display: inline-block;
 }
 
@@ -853,7 +853,7 @@ body.interstitial-page {
 footer {
     padding: 0;
     color: #ffffff;
-    background-image: url('../img/heder.jpg');
+    background-image: url('../img/footer.jpg');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
